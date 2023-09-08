@@ -8,14 +8,13 @@ const Input = styled.input`
     border-radius: 50px;
     width: 200px;
     color: #FFF;
-    font-size: 10px;
-    margin-bottom: 10px;
+    font-size: 16px;
+    margin-bottom: 30px;
 
     &::placeholder{
         color: #FFF;
         font-size: 16px;
     }
-
 `
 
 export default Input;
